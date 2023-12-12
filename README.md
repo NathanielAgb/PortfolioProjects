@@ -1,2 +1,2 @@
 # PortfolioProjects
-Portfolio Project Work as at December 2023
+Portfolio Project Work as of December 2023
